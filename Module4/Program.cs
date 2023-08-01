@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Diagnostics.Contracts;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 class MainClass
 {
